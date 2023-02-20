@@ -1,0 +1,53 @@
+.banner--image {
+  height: 313px;
+  border-radius: 9px;
+}
+
+.about--image {
+  height: 3017px;
+  border-radius: 9px;
+}
+
+.portfolio--image {
+  height: 1305px;
+  border-radius: 9px;
+}
+
+.contact--image {
+  height: 1178px;
+  border-radius: 9px;
+}
+
+.footage--image {
+  height: 326px;
+  border-radius: 9px;
+}
+
+.logo--image {
+
+  box-sizing: border-box;
+
+  position: absolute;
+  width: 388.05px;
+  height: 368.16px;
+  left: 1499.08px;
+  top: -25.63px;
+  
+  border: 18px solid #000000;
+  transform: rotate(23.89deg);
+}
+.logogit--image {
+  top: 5px;
+  position: absolute;
+  width: 40px;
+  height: 40px;
+}
+.space {
+  margin-top: 10px;
+}
+
+.textcenter {
+  margin-top: 30px;
+  margin-bottom: 30px;
+  text-align: center;
+}
